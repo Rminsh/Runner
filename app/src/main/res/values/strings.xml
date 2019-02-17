@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Runner</string>
+    <string name="steps">Steps</string>
+    <string name="today">Today</string>
+    <string name="current_steps">Current Steps</string>
+</resources>
