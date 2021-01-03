@@ -12,3 +12,4 @@ Simple step counter for android
 
 <p align="center">
 <img src="preview/preview1.jpg" height="350"/>
+
